@@ -3,7 +3,7 @@
 <body>
 <div 
 <pre>
-Hello! How is it going?
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Latin&pause=900&color=C30000&background=44060611&center=true&vCenter=true&width=452&height=43&lines=Hello!+;My+name+is+Bahaa!" alt="Typing SVG" /></a>
 
 This is my first github experience.
 
