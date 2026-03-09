@@ -1,34 +1,51 @@
 <html>
 <head></head>
 <body>
-<div 
-<pre>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Latin&pause=900&color=C30000&background=44060611&center=true&vCenter=true&width=452&height=43&lines=Hello!+;My+name+is+Bahaa!" alt="Typing SVG" /></a>
-
-This is my first github experience.
-
-🥞 Here is what I do for a living:
-  
-  🕌 Faith is the most important.
-  
-  👨🏽‍💻 Computer Science Major: Mostly into Web Development and General Coding.
-  
-  📔 Story Writer: Mostly action and interactive jolts.
-  
-  🐊 CROCODILES!!
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount&pause=900&color=990E0E&background=841C1C3A&center=true&vCenter=true&width=452&height=43&lines=Hello!+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Bahaa+Shalak.;A+frontend+developer." alt="Typing SVG" /></a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahaashalak&label=Profile%20views&color=0e75b6&style=flat" alt="bahaashalak" /> </p>
 
-- 📫 How to reach me **bahaashalak298@gmail.com**
+- 🔭 I’m currently working on **certain projects**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/some_dude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="some_dude" height="30" width="40" /></a>
+- 🌱 I’m currently learning **C, Java, and various programming languages**
+
+- 🤝 I’m looking for help with **my projects**
+
+- 📔 I regularly write articles on personal docx
+
+- 💬 Ask me about **myself**
+
+- 📫 How to reach me: **bahaashalak298@gmail.com**
+
+<h2 align="center">©️ Languages and Tools ©️</h2>
+
+<br>
+
+<p align="center"> <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,blender,c,css,github,html " />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-</pre>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,linux,py,vscode,unity " />
+  </a></p></p>
+  
+<br>
+<h2 align="center">🐍 Grid of Slithering 🐍</h2>
+<p align="center">
+   <picture>
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/reemshalak/reemshalak/output/github-contribution-grid-snake.svg" /></picture>
+</picture></p>
+
+
+<h2 align="center">🕝 Stats 🕒</h2>
+<h3 align="center">
+<p>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BahaaShalak&theme=shadow-red&hide_border=true&border_radius=6&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+</p>
+</h3>
 </body>
   
 </html>
